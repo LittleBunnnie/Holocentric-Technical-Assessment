@@ -1,0 +1,1 @@
+node "Bank Manager Automation.js"
